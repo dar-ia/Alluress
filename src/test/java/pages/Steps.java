@@ -3,10 +3,6 @@ package pages;
 import com.codeborne.selenide.*;
 
 import io.qameta.allure.Step;
-import org.junit.jupiter.api.DisplayName;
-import org.openqa.selenium.interactions.Actions;
-
-import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.*;
 
 public class Steps {
